@@ -1,0 +1,1 @@
+{"name":"Local: daysohamminh","url":"c:\\python\\tutuong\\daysohamminh.py","tests":[{"id":1763693212799,"input":"","output":"4\ntesting\nintestg\nabc\naabbbcccc\nabcabcbcc\naabbbcccc\nabc\nxyz"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\python\\tutuong\\daysohamminh.py","group":"local","local":true}

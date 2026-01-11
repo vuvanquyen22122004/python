@@ -1,0 +1,1 @@
+{"name":"Local: sonhonhat","url":"c:\\python\\tutuong\\.cph\\sonhonhat.py","tests":[{"id":1758704199070,"input":"2\n12ab29cd19\nab123gh456cd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\python\\tutuong\\.cph\\sonhonhat.py","group":"local","local":true}
