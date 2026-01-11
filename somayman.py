@@ -1,3 +1,2 @@
-x = "vu the duyet"
-y ='vu van quyen'
-print(x+" "+y)
+x=2004
+print(x)
